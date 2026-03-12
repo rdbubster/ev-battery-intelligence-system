@@ -16,7 +16,7 @@ import time
 # -----------------------------
 
 USE_REAL_API = True
-GROQ_API_KEY = "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"    # ← Paste your Groq API key here
+GROQ_API_KEY = ""    # ← Paste your Groq API key here
 GROQ_MODEL = "llama-3.3-70b-versatile"               # Free model on Groq
 
 
